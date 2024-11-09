@@ -1,4 +1,4 @@
-<b>Project Title:</b> Student Performance Analysis
+<b>Project Title:</b> Agriculture Production Analysis
 
 <b>Description:</b> This Python project analyzes student performance data to identify factors influencing academic outcomes. It utilizes various data analysis techniques, including descriptive statistics, correlation analysis, and regression modeling.
 
