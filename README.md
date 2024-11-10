@@ -10,4 +10,4 @@ Required libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 
 <b>Installation:</b>
 
-Clone the repository: https://github.com/NoxoloMakibinyane/workplace-project.git
+Clone the repository: [https://github.com/NoxoloMakibinyane/regression-project.git]
